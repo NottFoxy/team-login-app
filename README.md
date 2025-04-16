@@ -123,7 +123,3 @@ Each team member selected tasks to work on, created separate branches for each f
 This project is open-source and available under the [MIT License](LICENSE).
 
 ```
-
----
-
-Если ты используешь конкретный стек (например, React + Node.js или Django), я могу подправить этот шаблон под ваш стек. Хочешь?
